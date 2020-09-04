@@ -1,0 +1,11 @@
+LICINSTNO,INSTA_LIC,INSTA_NUM,INSTA_TYPE,BA_ID,BA_NAME,PERM_APPR,PERM_EXPIR,POWER,PRIME_SORC,GEOM_SRCE,INST_LOCAT,PLINSTATUS,ORG_LICNO,ORG_INSTID,ORG_ISS_DA,FLD_CENTRE,H2S_CONT,SUBSTANCE1,SUBSTANCE2,SUBSTANCE3,icon_url
+14573-1,"14573","1",Pump Station,0HE9,Canadian Natural Resources Limited,1990/10/30,1991/10/30,3675.0000000000,Electric,Mapping,03-03-067-10W5,Operating,,,,Edmonton,"0",Salt Water,,,./0.png
+14714-1,"14714","1",Pump Station,A7N3,Acquisition Oil Corp.,1978/06/02,1979/06/02,9.0000000000,Reciprocating,Mapping,12-09-068-11W5,Operating,,,,Edmonton,"0",Crude Oil,,,./0.png
+21241-1,"21241","1",Pump Station,0HE9,Canadian Natural Resources Limited,2013/09/04,,5000.0000000000,Electric,Mapping,02-06-067-10W5,Operating,,,,Edmonton,"0",Liquid Ethane,,,./0.png
+23209-1,"23209","1",Meter Station,0HE9,Canadian Natural Resources Limited,,,0.0000000000,,Mapping,02-06-067-10W5,Operating,,,,Edmonton,"0",HVP Products,,,./0.png
+2860-1,"2860","1",Tank Farm,"0205",Pembina Pipeline Corporation,2003/09/22,2003/09/22,0.0000000000,,Mapping,06-25-066-10W5,Operating,,,,Edmonton,"0",Crude Oil,,,./0.png
+5018-1,"5018","1",Pump Station,A7N3,Acquisition Oil Corp.,,,19.0000000000,Electric,Mapping,10-02-068-11W5,Operating,,,,Edmonton,"0",Fresh Water,,,./0.png
+7170-1,"7170","1",Pump Station,A7N3,Acquisition Oil Corp.,,,0.0000000000,Electric,Mapping,04-25-068-10W5,Operating,,,,Edmonton,"0",Fresh Water,,,./0.png
+56094-1,"56094","1",Pump Station,"0205",Pembina Pipeline Corporation,2014/04/04,2015/04/04,315.0000000000,Electric,Mapping,06-03-069-09W5,Operating,"56094","1",2014/04/04,Edmonton,"0",Crude Oil,,,./0.png
+56574-1,"56574","1",Pump Station,"0205",Pembina Pipeline Corporation,2014/09/24,2015/09/24,110.0000000000,Electric,Mapping,10-15-067-09W5,Operating,"56574","1",2014/09/24,Edmonton,"0",Crude Oil,,,./0.png
+56603-1,"56603","1",Tank Farm,"0195",Gibson Energy ULC,2014/09/30,2015/09/30,0.0000000000,,Mapping,10-15-067-09W5,Operating,"56603","1",2014/09/30,Edmonton,"0",Crude Oil,,,./0.png

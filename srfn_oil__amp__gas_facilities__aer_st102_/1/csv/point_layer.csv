@@ -1,0 +1,402 @@
+FAC_ID,FAC_NAME,OP_BA_ID,OPERATOR,SUB_CODE,FAC_SUB_TY,LIC_NUMBER,LIC_TYPE,EDCT_TYPE,EDCT_DESCR,LIC_BA_ID,LICENSEE,FAC_STATUS,LOC_SOURCE,icon_url
+ABBT0044271,Pc Swan Hill 12-31,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"28301",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0046304,Petro Canada Swan Hills 10-28,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"14644",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABBT0062160,Aog Etal Swan Hills 14-35,0HE9,Canadian Natural Resources Limited,"311",Crude Oil Single-Well Battery,"14753",F,"320",Oil Single Bty <1t/d,A7G2,Ridgeback Resources Inc.,Suspended,Facility Licence,./0.png
+ABBT0076081,Samson Swan Hills 10-12,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"14672",F,"321",Oil Multi Bty <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0079843,Swan Hills 11-27-66-11w5m Gas Multi,A663,Trident Exploration (Alberta) Corp.,"361",Gas Multiwell Group Battery,"30119",F,"020",Gas Multi Bty <0.01,0HE9,Canadian Natural Resources Limited,Suspended,Facility Licence,./0.png
+ABBT0081811,Acl Hm Swb 10(11)-15-070-11w5/3,A6A7,Cardinal Energy Ltd.,"311",Crude Oil Single-Well Battery,"38740",F,"320",Oil Single Bty <1t/d,A6A7,Cardinal Energy Ltd.,Active,Facility Licence,./0.png
+ABBT0082093,Swan Hills 10-12-67-11w5,A7L1,Razor Energy Corp.,"322",Crude Oil Multiwell Proration Battery,"14672",F,"321",Oil Multi Bty <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0111760,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"321",Crude Oil Multiwell Group Battery,"42188",F,"350",Oil Satellite <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0107820,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"41101",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABBT0110946,Pengrowth House Mtn 4-30-69-10w5,A7N3,Acquisition Oil Corp.,"321",Crude Oil Multiwell Group Battery,"42107",F,"321",Oil Multi Bty <1t/d,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT0124270,Pbn Et Al Swanh 8-16-69-9,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"45460",F,"321",Oil Multi Bty <1t/d,A7G2,Ridgeback Resources Inc.,Suspended,Facility Licence,./0.png
+ABBT0129852,10-35 Proration Mwb,A7N3,Acquisition Oil Corp.,"322",Crude Oil Multiwell Proration Battery,"39105",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT0133367,Penn West Swan Hills 10-10 Oswb,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"47399",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0119584,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"321",Crude Oil Multiwell Group Battery,"43746",F,"350",Oil Satellite <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0121690,Cpec Swan Hills 3-36-67-11w5,A7N3,Acquisition Oil Corp.,"322",Crude Oil Multiwell Proration Battery,"44491",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT0122325,Cpec Swan Hills 14-09-069-10w5,A2J6,Crescent Point Energy Corp.,"322",Crude Oil Multiwell Proration Battery,"44640",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Suspended,Facility Licence,./0.png
+ABBT0145308,Cpec Swanhills 14-09-069-10w5,A7N3,Acquisition Oil Corp.,"322",Crude Oil Multiwell Proration Battery,"44640",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT0125008,Pbn Hz Swanh 4-34-68-09w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"45602",F,"350",Oil Satellite <1t/d,A7G2,Ridgeback Resources Inc.,Suspended,Facility Licence,./0.png
+ABBT0127103,Pbn Swanh 08-17-69-09w5 Mwob,A7G2,Ridgeback Resources Inc.,"322",Crude Oil Multiwell Proration Battery,"45460",F,"321",Oil Multi Bty <1t/d,A7G2,Ridgeback Resources Inc.,Active,Facility Licence,./0.png
+ABBT0131305,Penn West Swan Hills 10-31 Oswb,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"46937",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABBT0131730,Lts Deer Mtn 6-3-69-9w5 Mwob,A7G2,Ridgeback Resources Inc.,"322",Crude Oil Multiwell Proration Battery,"46973",F,"321",Oil Multi Bty <1t/d,A7G2,Ridgeback Resources Inc.,Active,Facility Licence,./0.png
+ABBT0132020,Cpec Swanhills 14-09-069-10w5,A2J6,Crescent Point Energy Corp.,"321",Crude Oil Multiwell Group Battery,"44640",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Suspended,Facility Licence,./0.png
+ABBT8870020,Swan Hills 10-19-68-8w5,A74X,Aspenleaf Energy Limited,"322",Crude Oil Multiwell Proration Battery,"14740",F,"030",Oil Multi Bty <0.01,A74X,Aspenleaf Energy Limited,Active,Facility Licence,./0.png
+ABBT8870059,Pci Swan Hills 10-15,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"38463",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABBT8870091,Colin Swan H Inverness 10-17,A7N3,Acquisition Oil Corp.,"322",Crude Oil Multiwell Proration Battery,"14760",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT8870123,Arcan Swanhills 3-32 Bty,A74X,Aspenleaf Energy Limited,"322",Crude Oil Multiwell Proration Battery,"14507",F,"030",Oil Multi Bty <0.01,A74X,Aspenleaf Energy Limited,Active,Facility Licence,./0.png
+ABBT8870130,Swanhills 11-18-67-10w5 Bty #1,0HE9,Canadian Natural Resources Limited,"322",Crude Oil Multiwell Proration Battery,"14659",F,"421",Oil Multi Bty >=1t/d,0HE9,Canadian Natural Resources Limited,Active,Facility Licence,./0.png
+ABBT8870138,Amoco Ap-1 Swanh 10-12,A7L1,Razor Energy Corp.,"322",Crude Oil Multiwell Proration Battery,"14672",F,"321",Oil Multi Bty <1t/d,A7L1,Razor Energy Corp.,Suspended,Facility Licence,./0.png
+ABBT0141903,Acl House Mountain 12-12-070-11w5,A6A7,Cardinal Energy Ltd.,"321",Crude Oil Multiwell Group Battery,"49209",F,"321",Oil Multi Bty <1t/d,A6A7,Cardinal Energy Ltd.,Active,Facility Licence,./0.png
+ABBT8870076,Pci Swan Hills Bty 10-32,A7L1,Razor Energy Corp.,"322",Crude Oil Multiwell Proration Battery,"14647",F,"421",Oil Multi Bty >=1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABBT8870128,Shell Swan Hills Bty 4-9,A6A7,Cardinal Energy Ltd.,"322",Crude Oil Multiwell Proration Battery,"14996",F,"321",Oil Multi Bty <1t/d,A6A7,Cardinal Energy Ltd.,Active,Facility Licence,./0.png
+ABBT8870134,Swan Hills 5-34-66-10w5,0HE9,Canadian Natural Resources Limited,"322",Crude Oil Multiwell Proration Battery,"14523",F,"421",Oil Multi Bty >=1t/d,0HE9,Canadian Natural Resources Limited,Active,Facility Licence,./0.png
+ABBT8870140,Chauvco Swan Hills Unit 1,A7N3,Acquisition Oil Corp.,"322",Crude Oil Multiwell Proration Battery,"14860",F,"321",Oil Multi Bty <1t/d,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABCS0014657,Pengrowth Corporation,0HE9,Canadian Natural Resources Limited,"601",Compressor Station,"14657",F,"440",Compressor Stn >=1t/d,0HE9,Canadian Natural Resources Limited,Active,Facility Licence,./0.png
+ABBT0147139,Aspenleaf 04-25-67-09w5,A74X,Aspenleaf Energy Limited,"322",Crude Oil Multiwell Proration Battery,"50260",F,"030",Oil Multi Bty <0.01,A74X,Aspenleaf Energy Limited,Active,Facility Licence,./0.png
+ABCS0021443,Pengrowth Corporation,0HE9,Canadian Natural Resources Limited,"601",Compressor Station,"21443",F,"340",Compressor Stn <1t/d,0HE9,Canadian Natural Resources Limited,Abandoned,Facility Licence,./0.png
+ABBT0153339,Rbr Deer 01-36-068-09w5 Mwob,A7G2,Ridgeback Resources Inc.,"322",Crude Oil Multiwell Proration Battery,"43208",F,"030",Oil Multi Bty <0.01,A7G2,Ridgeback Resources Inc.,Active,Facility Licence,./0.png
+ABCS0021680,Pengrowth Corporation,0HE9,Canadian Natural Resources Limited,"601",Compressor Station,"21680",F,"340",Compressor Stn <1t/d,0HE9,Canadian Natural Resources Limited,Abandoned,Facility Licence,./0.png
+ABBT8870058,Samson Swan Hills Bty 2-36,A7L1,Razor Energy Corp.,"322",Crude Oil Multiwell Proration Battery,"14670",F,"321",Oil Multi Bty <1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABBT8870120,Chauvco Swan Hills 4-6,A7N3,Acquisition Oil Corp.,"321",Crude Oil Multiwell Group Battery,"31666",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT8870141,Swan Hills 2-23-67-10w5,0HE9,Canadian Natural Resources Limited,"322",Crude Oil Multiwell Proration Battery,"14665",F,"421",Oil Multi Bty >=1t/d,0HE9,Canadian Natural Resources Limited,Active,Facility Licence,./0.png
+ABBT8870029,Surat Swan Hills 12-23,A2PZ,KinMerc Oil & Gas Inc.,"322",Crude Oil Multiwell Proration Battery,"14673",F,"030",Oil Multi Bty <0.01,0ND1,Surat Energy Inc.,Suspended,Facility Licence,./0.png
+ABBT8870060,Comaplex Swan Hills Bty 4-8,A7N3,Acquisition Oil Corp.,"322",Crude Oil Multiwell Proration Battery,"14755",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABBT8870112,Accel Deer Mountain #1 Bty 4-7,A7ND,ACCEL Canada Holdings Limited,"322",Crude Oil Multiwell Proration Battery,"14831",F,"321",Oil Multi Bty <1t/d,A7ND,ACCEL Canada Holdings Limited,Active,Facility Licence,./0.png
+ABBT8870177,Pci Swan Hills 10-3,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"38462",F,"320",Oil Single Bty <1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABCT0000427,Cdn Crude Ct Plant,0NZ1,Tervita Corporation,"611",Custom Treating Facility,"14661",F,"080",Custom Treat <0.01,0NZ1,Tervita Corporation,Suspended,Facility Licence,./0.png
+ABCS0014830,Conoco Canada Resources Limited,A5D4,Cenovus Energy Inc.,"601",Compressor Station,"14830",F,"040",Compressor Stn <0.01,A5K1,Cona Resources Ltd.,Suspended,Facility Licence,./0.png
+ABGP0001479,Pengrowth Swan Hills,A7ND,ACCEL Canada Holdings Limited,"404",Gas Plant Acid Gas Injection,"14657",F,"440",Compressor Stn >=1t/d,0HE9,Canadian Natural Resources Limited,Suspended,Facility Licence,./0.png
+ABGS0002534,Penn West Swan Hills,A7L1,Razor Energy Corp.,"621",Gas Gathering System,"14647",F,"421",Oil Multi Bty >=1t/d,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABCS0021440,Pengrowth Corporation,0HE9,Canadian Natural Resources Limited,"601",Compressor Station,"21440",F,"340",Compressor Stn <1t/d,0HE9,Canadian Natural Resources Limited,Abandoned,Facility Licence,./0.png
+ABIF0007571,Dekalb Swan Hills,A7L1,Razor Energy Corp.,"501",Enhanced Recovery Scheme,"14645",F,"090",Inj/Disp Water <0.01,A7L1,Razor Energy Corp.,Active,Facility Licence,./0.png
+ABIF0007576,Enerplus Swan Hills,0AW4,Paramount Resources Ltd.,"501",Enhanced Recovery Scheme,"14769",F,"090",Inj/Disp Water <0.01,0AW4,Paramount Resources Ltd.,Suspended,Facility Licence,./0.png
+ABIF0009870,Swan Hills Unit #1 Sf 12-16-67-10w5,0HE9,Canadian Natural Resources Limited,"501",Enhanced Recovery Scheme,"14655",F,"090",Inj/Disp Water <0.01,0HE9,Canadian Natural Resources Limited,Active,Facility Licence,./0.png
+ABGP0001192,Swan Hills,A6A7,Cardinal Energy Ltd.,"402",Gas Plant Acid Gas Flaring < 1 T/D Sulphur,"14994",F,"300",Gas Plant <1t/d,A6A7,Cardinal Energy Ltd.,Active,Facility Licence,./0.png
+ABGP0001423,Star Swan Hills,A7N3,Acquisition Oil Corp.,"401",Gas Plant Sweet,"31225",F,"300",Gas Plant <1t/d,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABIF0007805,Ranchmen's Swan Hills Wf,A74X,Aspenleaf Energy Limited,"501",Enhanced Recovery Scheme,"14742",F,"090",Inj/Disp Water <0.01,A74X,Aspenleaf Energy Limited,Active,Facility Licence,./0.png
+ABIF0140566,Lts Deer 4-2-69-9w5 Eor Gas Inj,A7G2,Ridgeback Resources Inc.,"501",Enhanced Recovery Scheme,"46973",F,"321",Oil Multi Bty <1t/d,A7G2,Ridgeback Resources Inc.,Active,Facility Licence,./0.png
+ABIF0007892,Amoco Swan Hills A &b 124,A7L1,Razor Energy Corp.,"501",Enhanced Recovery Scheme,"14671",F,"090",Inj/Disp Water <0.01,0BP8,Obsidian Energy Ltd.,Suspended,Facility Licence,./0.png
+ABIF0140629,100/04-21-068-10w5 Water Disp Well,A7N3,Acquisition Oil Corp.,"503",Disposal,"14760",F,"030",Oil Multi Bty <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABIF0008408,Colgas Et Al Swan Hills 7-11,A7N3,Acquisition Oil Corp.,"501",Enhanced Recovery Scheme,"14854",F,"090",Inj/Disp Water <0.01,A7N3,Acquisition Oil Corp.,Suspended,Facility Licence,./0.png
+ABIF0127081,Cp Swanhills 02-15-068-11w5 Wd,A2J6,Crescent Point Energy Corp.,"503",Disposal,"46010",F,"090",Inj/Disp Water <0.01,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABGS0006413,Vintage Genisis Swan Hills 10-20,A2PZ,KinMerc Oil & Gas Inc.,"621",Gas Gathering System,"26903",F,"020",Gas Multi Bty <0.01,A2PZ,KinMerc Oil & Gas Inc.,Abandoned,Facility Licence,./0.png
+ABIF0151386,Swan Hills Unit #1 Sf 12-16-67-10w5,0HE9,Canadian Natural Resources Limited,"503",Disposal,"14655",F,"090",Inj/Disp Water <0.01,0HE9,Canadian Natural Resources Limited,Active,Facility Licence,./0.png
+ABGS0079801,Swan Hills Ggs 11-27-66-11w5m,A663,Trident Exploration (Alberta) Corp.,"621",Gas Gathering System,"30119",F,"020",Gas Multi Bty <0.01,0HE9,Canadian Natural Resources Limited,Suspended,Facility Licence,./0.png
+ABIF0007435,Arcan  Morse River Unit #1,A74X,Aspenleaf Energy Limited,"501",Enhanced Recovery Scheme,"14509",F,"090",Inj/Disp Water <0.01,A74X,Aspenleaf Energy Limited,Active,Facility Licence,./0.png
+ABIF0081739,11-27-66-11 Water Injection,A663,Trident Exploration (Alberta) Corp.,"503",Disposal,"30119",F,"020",Gas Multi Bty <0.01,0HE9,Canadian Natural Resources Limited,Suspended,Facility Licence,./0.png
+ABIF0007344,Neutrino Swan Hills,A7N3,Acquisition Oil Corp.,"501",Enhanced Recovery Scheme,"14754",F,"090",Inj/Disp Water <0.01,A7N3,Acquisition Oil Corp.,Suspended,Facility Licence,./0.png
+ABIF0140630,100/12-22-069-10w5 Water Disp Well,A7N3,Acquisition Oil Corp.,"503",Disposal,"14860",F,"321",Oil Multi Bty <1t/d,A7N3,Acquisition Oil Corp.,Active,Facility Licence,./0.png
+ABIF0156400,Rbr Deer Deer 06-03-069-09w5 Eor,A7G2,Ridgeback Resources Inc.,"501",Enhanced Recovery Scheme,"51930",F,"091",Inj/Disp EOR <0.01,A7G2,Ridgeback Resources Inc.,Active,Facility Licence,./0.png
+ABIF0140183,Lts Deer 102/12-10-69-9w5 Eor,A7G2,Ridgeback Resources Inc.,"501",Enhanced Recovery Scheme,"49067",F,"091",Inj/Disp EOR <0.01,A7G2,Ridgeback Resources Inc.,Active,Facility Licence,./0.png
+ABBT0040141,Cnw Swan Hills 16-27,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0138789",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0040194,Surat Swan Hills 11-23,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0139467",W,,,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0041371,Ammin Pcp Adams 16-5,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0142673",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0045455,Accel Energy Swan H,A7ND,ACCEL Canada Holdings Limited,"311",Crude Oil Single-Well Battery,"0153341",W,,,A7ND,ACCEL Canada Holdings Limited,Active,Well Licence,./0.png
+ABBT0046887,Colin Swan H 12-1,A7ND,ACCEL Canada Holdings Limited,"311",Crude Oil Single-Well Battery,"0025678",W,,,A7ND,ACCEL Canada Holdings Limited,Suspended,Well Licence,./0.png
+ABBT0044667,Home Swan Hills 2-5-68-10 Battery,0HE9,Canadian Natural Resources Limited,"311",Crude Oil Single-Well Battery,"0021390",W,,,0HE9,Canadian Natural Resources Limited,Suspended,Well Licence,./0.png
+ABBT0045714,Surat Swan Hills 2-5,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0067340",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0047661,Colin Et Al Swan Hills,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0070994",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT0047660,Colin Et Al Swan Hills,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0071660",W,,,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0049916,Colin Et Al Deer Mtn 07-13,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,"0153674",W,,,A7ND,ACCEL Canada Holdings Limited,Suspended,Well Licence,./0.png
+ABBT0061820,Berkley House Mountain 1-23,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0231866",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0066791,Apache House Mountain,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0082191",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0068255,Apache House Mountain Swan Hills 12-,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0027795",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0068630,Star Oil And Gas Inverness Swan Hill,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0022048",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0062384,Berkley Et Al Swan Hills 10-26,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0131878",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0066961,Apache House Mountain 12-33,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0028138",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0067072,Devon Swan Hills 07-24,0HE9,Canadian Natural Resources Limited,"351",Gas Single-Well Battery,"0254541",W,"140",Single Well 0.00,0HE9,Canadian Natural Resources Limited,Suspended,Well Licence,./0.png
+ABBT0064056,Inverness 2-28,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0023896",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0064619,Swan Hills 4-27,A7L1,Razor Energy Corp.,"351",Gas Single-Well Battery,"0024752",W,,,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0067000,Apache House Mountain 13-32,0AW4,Paramount Resources Ltd.,"341",Crude Bitumen Multiwell Group Battery,"0028926",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0066281,Apache House Mountain 14-04,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0257874",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0067396,Vintage Genisis Swan Hills 10-20,A2PZ,KinMerc Oil & Gas Inc.,"361",Gas Multiwell Group Battery,"0255984",W,"140",Single Well 0.00,A2PZ,KinMerc Oil & Gas Inc.,Suspended,Well Licence,./0.png
+ABBT0081885,Acl Swb 2-32(bh16-29)-70-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0026242",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0082526,Acl House Mountain 07-12-069-10w5,A6A7,Cardinal Energy Ltd.,"311",Crude Oil Single-Well Battery,"0310771",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Active,Well Licence,./0.png
+ABBT0079390,Acl Swan Hills 10-18-070-10w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0027362",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0080063,Acl Swan Hills 100/02-17-070-10w5/00,A6A7,Cardinal Energy Ltd.,"311",Crude Oil Single-Well Battery,"0027398",W,,,A6A7,Cardinal Energy Ltd.,Active,Well Licence,./0.png
+ABBT0088295,981384 Virg 100/04-23-066-12w5/00,A663,Trident Exploration (Alberta) Corp.,"351",Gas Single-Well Battery,"0340537",W,"140",Single Well 0.00,A663,Trident Exploration (Alberta) Corp.,Suspended,Well Licence,./0.png
+ABBT0088652,12-21-068-11w5 (dh14-21) Acl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0334691",W,"370",Multi Well Pad <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0088661,12-21-068-11w5 (dh 16-20) Acl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0334684",W,"370",Multi Well Pad <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0077922,Bounty Et Al Swan Hills 11-24-70-12,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0286992",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0089152,Acl 10-31-070-11w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0028071",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0083460,12-23 Surat Swan Hills,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0111470",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0078369,Enterra Swan Hills 10-24-070-12w5hz,A5RZ,Equal Energy Ltd.,"311",Crude Oil Single-Well Battery,"0289076",W,"140",Single Well 0.00,A6CG,Highwood Oil Company Ltd.,Suspended,Well Licence,./0.png
+ABBT0083558,Apahce House Mountain 10-34-69-10w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0025903",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0091166,Arcan Swan Hills 15-29-68-8w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0351997",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0091229,Celtic  Swan Hills 2-2-68-09w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0356528",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0092036,981384 Et Al Hz Swan 13-32-66-11w503,A663,Trident Exploration (Alberta) Corp.,"351",Gas Single-Well Battery,"0344998",W,"140",Single Well 0.00,A663,Trident Exploration (Alberta) Corp.,Suspended,Well Licence,./0.png
+ABBT0080058,Acl Swan Hills 12-06-070-09w500,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0026452",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0080062,Acl Swan Hills 100/02-34-068-11w5/00,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0284903",W,"140",Single Well 0.00,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0081664,Acl Housemountain Swb 12-09-70-10w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0027217",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0093038,Acl Swan Hills 04-22-070-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0028120",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0086484,Hm046 08-03-069-11w5(02-03-069-11w5),0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0332371",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0093385,Swb Hm 02-07-070-10w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0025975",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0087388,10-33-068-11w5(08-33) Acl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0332048",W,"360",Single Well <0.3,0AW4,Paramount Resources Ltd.,Suspended,Well Licence,./0.png
+ABBT0082383,Swb House Mountain 0/10-29-070-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0027828",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0082841,Apache Swb 2-20-70-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0025777",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0097808,Celtic Swanh 4-2-68-9w502,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0356528",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0091167,Arcan Deer Mountain 12-21-68-08w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0099339",W,,,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0091464,Hm  (2-12) 14-01-069-10w5/02 Bhl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0041999",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0086692,Colin Et Al Swanh 10-13-069-09w5,A5G3,ConocoPhillips Canada Resources Corp.,"311",Crude Oil Single-Well Battery,"0025474",W,,,A7ND,ACCEL Canada Holdings Limited,Suspended,Well Licence,./0.png
+ABBT0086877,Apache House Mount 02-28-068-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0333892",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0092035,981384 Et Al Hz Swanh 1-28-66-11w502,A663,Trident Exploration (Alberta) Corp.,"351",Gas Single-Well Battery,"0348047",W,"150",Multi Well Pad =0.00,A663,Trident Exploration (Alberta) Corp.,Suspended,Well Licence,./0.png
+ABBT0099542,Accel Energy Swnh 2-1-69-9,A7ND,ACCEL Canada Holdings Limited,"311",Crude Oil Single-Well Battery,"0024967",W,,,A7ND,ACCEL Canada Holdings Limited,Active,Well Licence,./0.png
+ABBT0087612,Celtic Swan Hills 12-27-66-9w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0206242",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0092657,Acl Swan Hills 100/02-03-070-11w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0116513",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0087758,Acl Hm 08-14-069-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0341004",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0093220,981384 Swanhills 16-33-66-11w5/02,A663,Trident Exploration (Alberta) Corp.,"351",Gas Single-Well Battery,"0348049",W,"150",Multi Well Pad =0.00,A663,Trident Exploration (Alberta) Corp.,Suspended,Well Licence,./0.png
+ABBT0088664,12-16-068-11w5 (dh 14-16) Acl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0336195",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0087382,12-28-068-11w5(06-28) Acl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0334711",W,"370",Multi Well Pad <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0087402,02/10-33-068-11w5(16-33)acl,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0332042",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0095625,Acl Swanh 10-12-070-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0027807",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0111853,Swan Hills 06-09,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0420049",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0113060,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0419512",W,"280",Single Well <0.01,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0091767,Celtic Et Al Swanh 10-32-66-9w502,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0282040",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0091797,Acl Swan Hills 0/12-31-069-09w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0028728",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0114357,Arcan 13-30 Hz,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0423891",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0090581,Arcan Swan Hills 2-21-68-8w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0351986",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0099055,Devon Arl Swanh 4-23-67-11,0HE9,Canadian Natural Resources Limited,"311",Crude Oil Single-Well Battery,"0395865",W,"280",Single Well <0.01,0HE9,Canadian Natural Resources Limited,Suspended,Well Licence,./0.png
+ABBT0118470,Midway Hz Swanh 14-15/14-22-68-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0434965",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT0092408,Arcan Swan Hills 2-20-68-8w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0359780",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0092436,Celtic Swan Hills 4-2-68-09w5/2,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0356528",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0119112,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0434418",W,"370",Multi Well Pad <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0099685,Trafalgar House Mountain 3-36,A2J6,Crescent Point Energy Corp.,"311",Crude Oil Single-Well Battery,"0399674",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0119667,Swan 01-16,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0436533",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0119668,Swan 01-28,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0436534",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0121286,Ethel 11-32,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0437489",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0122361,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0433225",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0124320,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0440799",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0124585,Swan Hills 06-26,A6A7,Cardinal Energy Ltd.,"311",Crude Oil Single-Well Battery,"0027714",W,"280",Single Well <0.01,A6A7,Cardinal Energy Ltd.,Active,Well Licence,./0.png
+ABBT0105515,Kinmerc Swan Hills 4-20-69-9,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0096413",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0124726,Swanhills 6-28,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0446544",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0125512,Acl Swan Hills 09-30,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0449322",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0125935,Acl Swanh 13-33,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0443127",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0125972,Pengrowth Swanh14-11-69-0,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0450312",W,"140",Single Well 0.00,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0126484,Arcan 4-12 Hz Swanh 15-35-067-09 W5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0449499",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0126485,Arcan 16-33 Hz Ethel 05-04-068-08 W5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0443304",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0126562,Penn West Swan Hills 04-15 Oswb,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0452347",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0126663,Cpec Hz Swanhills 9-17-69-10w5,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0449337",W,"140",Single Well 0.00,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0127252,Arcan 11-27 Hz Swanh 14-28-68-9,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0452318",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0130918,Lts Deer 5-9-69-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0458515",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0130921,Lts Deer 1-35-68-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0461923",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0099638,Arcan 16-09,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0400474",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0098146,Drake Pacific 10-31-68-9w5,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0375393",W,"140",Single Well 0.00,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0131808,Swan Hills 08-18-069-09w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0463379",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0132024,Arcan 102/13-20-068-08w5/00,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0459471",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0132471,Cpec Hz Swanhills 01-12-069-11w5,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0460836",W,"140",Single Well 0.00,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0114881,Acl Hz 102 Swanh 3-31-69-10,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0427983",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0114982,Pengrowth Hz Swanh 16-36-68-9,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0430364",W,"140",Single Well 0.00,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0099162,02-14-070-11w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0025598",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0117326,Swan Hills 13-19,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0432616",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0117902,Swanh 13-25,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0435500",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0117904,Swanh 13-15,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0433200",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0100760,100/15-21-069-09w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0403328",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,New,Well Licence,./0.png
+ABBT0100763,100/08-21-069-09w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0403329",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,New,Well Licence,./0.png
+ABBT0118987,Coral Hill 100/16-13-069-09w5,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0436962",W,"140",Single Well 0.00,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0138541,Acl Hz Swanh 11-05-069-09w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0471506",W,"370",Multi Well Pad <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0107516,Pengrowth Hz Swanh 8-23-68-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0417188",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT0104566,Kinmerc Swan Hills 10-34-67-11,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0132940",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0121697,Cpec Swan Hills 14-09-069-10w5,A2J6,Crescent Point Energy Corp.,"311",Crude Oil Single-Well Battery,"0443450",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0105358,Kinmerc Swan Hills 2-35-67-11w5,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0135409",W,"140",Single Well 0.00,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0122604,Pengrowth 2-27-69-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0024965",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT0106254,Pengrowth Swanh 15-23,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0415693",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT0106871,Arcan 13-10,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0411996",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0123358,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0447328",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0107935,Kinmerc Swan Hills 10-33-68,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0111745",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0112461,Morse 13-27,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0206242",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0125439,Acl Hz Swan Hills 8-26,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0449947",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0149039,15-27-69-10w5 Oil Swb,A6A7,Cardinal Energy Ltd.,"311",Crude Oil Single-Well Battery,"0025985",W,,,A6A7,Cardinal Energy Ltd.,Active,Well Licence,./0.png
+ABBT0125529,Ethel 3-07,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0443144",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0149826,Inverness 04-06-068-10w5,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0023047",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0126311,Pbn Swanh 1-16-69-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0454418",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0126560,Penn West Swan Hills 04-16 Owsb,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0453961",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0127400,Lts Swanh 9-5-69-9,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0455214",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0114356,Arcan 04-20 Hz,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0421066",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0112460,Morse River 04-04,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0025068",W,,,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0155727,Kinmerc Swanhills 04-04,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0087141",W,,,A2PZ,KinMerc Oil & Gas Inc.,Active,Well Licence,./0.png
+ABBT0155853,Ethel 16-25-067-09w5 Swb,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0492635",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0128344,Ethel 2-14,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0454693",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0115542,Midway Hz Swan Hills 14-9-69-10w5,A2J6,Crescent Point Energy Corp.,"311",Crude Oil Single-Well Battery,"0426977",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0115658,Swanhills 06-19,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0421814",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0116778,Midway Hz Swan Hills 2-15/2-10,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0431932",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0114430,Pengrowth Hz Swanh 13-23-68-9,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0427747",W,"140",Single Well 0.00,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT0130919,Lts Deer 4-9-69-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0458506",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0130920,Lts Deer 10-26-68-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0461982",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0130924,Lts Deer 15-4-69-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0457442",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0130925,Lts Deer 7-15-69-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0463312",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0130926,Lts Deer 8-15-69-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0463313",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0131207,Swann Hills 07-16,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0459963",W,"370",Multi Well Pad <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0131222,Swan Hills 15-03,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0460678",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,New,Well Licence,./0.png
+ABBT0131783,Swan Hills 06-17-069-09w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0464793",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870005,Celtic Swan Hills 4-25-067-09w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0100226",W,,,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT8870021,Surat Swan Hills 06-04,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0073039",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870022,First Dev Swan H 4-25-68-11,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0102712",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870031,Dorset Swan H 4-13,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0044834",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870079,Comaplex Swan Hills 4-4,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0025677",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870174,Shell Swan Hills 12-27,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0121791",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870193,Chauvco Swan Hills 2-1,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0123837",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870199,Colin Swan Hills 12-2,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,"0129169",W,,,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT8870200,Colin Swan Hills 2-3,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0129171",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT8870215,Chauvco Swan Hills 4-2,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0135585",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0131834,Swan Hills 14-05-069-09w5/0,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0463339",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0117898,Midway Hz Swanh 14-10-68-11w5,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0432053",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0117903,Swanh 13-09,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0424182",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0118558,Swanh 04-24,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0435499",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0116840,Swan Hills 08-20,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0422258",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0132837,Swanhills 04-26-069-10w5m,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0127174",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT0135608,Lts Deer 12-2-69-9w5/02 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0129169",W,,,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0136500,14-35-68-10 Single Well Oil Battery,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0237132",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0136715,Arcan 15-4 Hz Swanh 7-3-68-8,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0466498",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0121667,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0443769",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0121708,Ethel 2-28,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0437488",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0122048,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0441791",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0120372,Pec Hz Swanh 1-25-68-9,0TM9,NAL Resources Limited,"311",Crude Oil Single-Well Battery,"0431559",W,"140",Single Well 0.00,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0120609,Swanh 15-01,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0437831",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0120685,Crescent Hz Swan Hills 14-36-67-11w5,A2J6,Crescent Point Energy Corp.,"311",Crude Oil Single-Well Battery,"0440646",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0122483,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0433225",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0138548,Acl Hz Swanh 05-10-070-11w5,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0470933",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0120738,Coral Hill 00/02-35-069-09w5,A2J6,Crescent Point Energy Corp.,"311",Crude Oil Single-Well Battery,"0444330",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,New,Well Licence,./0.png
+ABBT0121285,Ethel 16-32,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0437490",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0121673,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0443770",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0122732,Swan Hills 14-01,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0041999",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0124706,Ethel 102/14-33,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0443142",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0125430,Penn West 01-03 Oswb,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0449917",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0125436,Acl Hz Swan Hills 06-24,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0449785",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0124319,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0439645",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0125835,12-21 Swb,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0020966",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0124705,Ethel 102/07-04,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0443143",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0124926,Swanh 10-22-68-11w5 Swb,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0043730",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0126570,Acl Hz Swanh 07-02,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0453870",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0127399,Pbn Swanh 10-5-69-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0455233",W,"360",Single Well <0.3,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0125836,4-4 Swb,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0028119",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0125837,10-22 Swb,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0023300",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT0125932,Acl Hz Swanh 8-10,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0452474",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0126488,Arcan 16-33 Hz Ethel 01-34-067-08 W5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0443305",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0129099,Lts Swan H 3-34-68-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0457096",W,"570",Single Well <2.0,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0126561,Penn West Swan Hills 04-15 Owsb,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0453959",W,"360",Single Well <0.3,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT0126569,Acl Hz Swanh 03-02,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0453988",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0150907,Aspenleaf 15-4 Hz Swanh 16-7-68-8,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0483343",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0131216,Swann Hills 09-16,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0460160",W,"570",Single Well <2.0,A6A7,Cardinal Energy Ltd.,New,Well Licence,./0.png
+ABBT0131323,Arcan 100/3-10-068-08w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0462568",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0131333,Swan Hills05-21,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0461758",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0131464,Coral Hill 10-25-069-09w5 Downhole,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0444330",W,"280",Single Well <0.01,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0156124,Deer  Mtn Swb 00/14-22-068-08w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0492661",W,"140",Single Well 0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0129819,Lts Swanh 13-9-69-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0458520",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0129820,Lts Swanh 12-9-69-9w5,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0458523",W,"280",Single Well <0.01,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT0130350,Coral Hill 13-35-069-11w5 Downhole,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0460823",W,"140",Single Well 0.00,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0130786,Swan Hills 14-24,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0460970",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0130922,Lts Deer 10-4-69-9w5 Swb,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0457467",W,"360",Single Well <0.3,A5EL,Lightstream Resources Ltd.,Suspended,Well Licence,./0.png
+ABBT0131213,Swann Hills 14-01,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0460677",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT0131226,Swan Hills 03-08,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0461160",W,"360",Single Well <0.3,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870016,Cutbank Swan Hills 4-20,"0D24",Prince Resource Corporation,"311",Crude Oil Single-Well Battery,"0096413",W,,,A2PZ,KinMerc Oil & Gas Inc.,Suspended,Well Licence,./0.png
+ABBT8870017,Tri-Link Et Al Swan Hills 2-15-68-11,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0087723",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT8870024,Swan Hills 12-19-68-8w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0025805",W,,,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT8870036,Surat Swan Hills 2-8,A8EE,Surat Energy Inc.,"311",Crude Oil Single-Well Battery,"0094584",W,,,0ND1,Surat Energy Inc.,Active,Well Licence,./0.png
+ABBT8870078,Comaplex Swanhills 4-22,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0025552",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870089,Colin Swan Hills 4-32,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0026860",W,,,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT8870170,Cabre Swan Hills 04-25,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0026494",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870176,Pci Swan Hills 10-35,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,"0029724",W,,,A7L1,Razor Energy Corp.,Suspended,Well Licence,./0.png
+ABBT8870209,Chauvco Swan Hills 12-26,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0133262",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT8870214,Chauvco Swan Hills 4-26,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0136096",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT8870216,Wincan Swan Hills 10-24,A6CG,Highwood Oil Company Ltd.,"311",Crude Oil Single-Well Battery,"0135686",W,,,A6CG,Highwood Oil Company Ltd.,Active,Well Licence,./0.png
+ABBT8870219,First Dev Swanh 10-25,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0136330",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT0134901,Arcan 11-27 Hz Swanh 11-28-068-09,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0452319",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT9980599,Cutbank Swan Hills 6-29,"0D24",Prince Resource Corporation,"311",Crude Oil Single-Well Battery,"0111657",W,,,"0D24",Prince Resource Corporation,Suspended,Well Licence,./0.png
+ABBT0140302,Aspenleaf 15-4 Hz 03 Swanh 3-10-68-8,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0475082",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0140396,Aspenleaf 15-4 Hz Swanh 14-3-68-8,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0466499",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0147503,Aspenleaf 100hz Swanh 3-29-68-09,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0483065",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT0156123,Ethel Swb 03/02-10-68-08w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0492660",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT0155849,Morse River 16-04-067-09w5 Swb,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0495295",W,"150",Multi Well Pad =0.00,A74X,Aspenleaf Energy Limited,Active,Well Licence,./0.png
+ABBT8870011,Cwcp Swan Hills 10-24-69-10,0LP6,Cwcp Resources Inc.,"311",Crude Oil Single-Well Battery,"0082979",W,,,A73W,Enercapita Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870014,Colin Swan Hills 10-17,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0075874",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT8870015,Shell Swan Hills 10-6-69-6,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0084486",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870023,Chauvco Swan Hills 5-15,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0056214",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT8870026,First Dev Swanh,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0105684",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870042,Surat Swann Hills 10-33-68=10,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0111745",W,,,A2PZ,KinMerc Oil & Gas Inc.,Suspended,Well Licence,./0.png
+ABBT8870143,Imperial Deer Mountain 2-19,A5G3,ConocoPhillips Canada Resources Corp.,"311",Crude Oil Single-Well Battery,"0025394",W,,,A7G2,Ridgeback Resources Inc.,Suspended,Well Licence,./0.png
+ABBT8870168,Colgas Swan Hills 12-03,0HE9,Canadian Natural Resources Limited,"311",Crude Oil Single-Well Battery,"0119443",W,,,0HE9,Canadian Natural Resources Limited,Suspended,Well Licence,./0.png
+ABBT8870179,Chauvco Swan Hills 7-12,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,"0123830",W,,,A6A7,Cardinal Energy Ltd.,Suspended,Well Licence,./0.png
+ABBT8870184,Chauvco Swan Hills 10-1,A6A7,Cardinal Energy Ltd.,"311",Crude Oil Single-Well Battery,"0124915",W,,,A6A7,Cardinal Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870194,Twin Butte Swan Hills 2/4-17-69-10w5,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0127191",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT8870205,Chauvco Swan Hills 10-34,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0132940",W,,,A2PZ,KinMerc Oil & Gas Inc.,Suspended,Well Licence,./0.png
+ABBT8870206,Imperial Swan Hills 4-3,"0007",Imperial Oil Resources Limited,"311",Crude Oil Single-Well Battery,"0119723",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT8870210,First Dev Swanh 16-24,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0133836",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870211,Chauvco Swan Hills 12-35,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0135018",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT8870212,Colin Swan Hills 4-1,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0133928",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT8870213,Chauvco Swan Hills 2-35,A2PZ,KinMerc Oil & Gas Inc.,"311",Crude Oil Single-Well Battery,"0135409",W,"140",Single Well 0.00,A2PZ,KinMerc Oil & Gas Inc.,Suspended,Well Licence,./0.png
+ABBT8870002,Kacee Swan Hills 02-35,A6FW,Vermilion Energy Inc.,"311",Crude Oil Single-Well Battery,"0090769",W,,,A6FW,Vermilion Energy Inc.,Suspended,Well Licence,./0.png
+ABBT8870006,Comaplex Swan Hills 12-9,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0045196",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT8870018,Deer Mt 12-30-68-8w5,A74X,Aspenleaf Energy Limited,"311",Crude Oil Single-Well Battery,"0026971",W,,,A74X,Aspenleaf Energy Limited,Suspended,Well Licence,./0.png
+ABBT8870025,First Dev Swan H 10-13-68-9,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0101922",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870040,First Dev Swanh 10-9,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0107349",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870157,Chauvco Swan Hills 2-23,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0072574",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT8870169,Surat Swan Hills 10-2,A8EE,Surat Energy Inc.,"311",Crude Oil Single-Well Battery,"0118683",W,,,0ND1,Surat Energy Inc.,Active,Well Licence,./0.png
+ABBT8870171,Colin Swan Hills 2-4,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0120582",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT8870173,Inverness Swan Hills 4-26,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0122556",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870180,First Dev Swanh 2-21,0XF2,Dark Energy Ltd.,"311",Crude Oil Single-Well Battery,"0122307",W,,,0XF2,Dark Energy Ltd.,Active,Well Licence,./0.png
+ABBT8870198,Colin Swan Hills 10-2,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0128327",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT8870201,Chauvco Swan Hills 4-35,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0130384",W,,,A7N3,Acquisition Oil Corp.,Suspended,Well Licence,./0.png
+ABBT8870207,Colin Swan Hills 4-11,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0132685",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT8870217,Colin Swan Hills 2-2,A7G2,Ridgeback Resources Inc.,"311",Crude Oil Single-Well Battery,"0136604",W,,,A7G2,Ridgeback Resources Inc.,Active,Well Licence,./0.png
+ABBT8870220,Colgas Swan Hills 13-02,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,"0138933",W,,,A7N3,Acquisition Oil Corp.,Active,Well Licence,./0.png
+ABBT0041595,Esso Deermt 12-1,"0007",Imperial Oil Resources Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0042214,Shell Swanh 04-36,0T03,Shell Canada Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0044149,Shell Swan H 10-30,0T03,Shell Canada Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0044272,Mobil Swan Hills 10-20,A68P,Canlin Resources Partnership,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0044328,Sc Swan Hills 13-01,0MN3,Samson Resources Company,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0045293,Colin Swan H,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0045294,Colin Swan H,A5G3,ConocoPhillips Canada Resources Corp.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0045456,Colin Swan H,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0045569,Colin Swan H,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0045758,Colin Swan H 15-15,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0045818,Sc Swan Hills 12-36,0MN3,Samson Resources Company,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0046821,Shell Swan Hills 4-6,0T03,Shell Canada Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0046886,Colin Swan H 9-1,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0048169,Colin Et Al Swan Hills 07-06,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0048179,Colin Et Al Swan Hills 15-12,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0048493,Swan Hills 4-27,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0057247,Petromet Swan Hills 12-27,"0039",Repsol Oil & Gas Canada Inc.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0058994,Ice Deer Mtn 10-27-69-9,0LP5,International Colin Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0062128,Pennwest Swan Hills 2-21,A7L1,Razor Energy Corp.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0068802,Anderson Swan Hills 07-24,0HE9,Canadian Natural Resources Limited,"371",Gas Test Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0070001,Pci Adams 6-9-71-8,0FH8,Saba Energy Inc.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0076622,Swan Hills 11-27-66-11w5m Test Batt,0HE9,Canadian Natural Resources Limited,"371",Gas Test Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0079862,Swan Hills 11-27 Gas Test,0HE9,Canadian Natural Resources Limited,"371",Gas Test Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0103744,Pengrowth Swanh Ws 10-6-69-8,A7ND,ACCEL Canada Holdings Limited,"902",Water Source Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0116383,Swanhills Water Src 04-07-069-08w5/4,A7ND,ACCEL Canada Holdings Limited,"902",Water Source Battery,,,,,,,Active,LSD Centre,./0.png
+ABBT0121815,Pennwest Swan Hills,A7L1,Razor Energy Corp.,"381",Drilling and Completing,,,,,,,Active,LSD Centre,./0.png
+ABBT0132280,Cpec Hz Swanhills 01-12-69-11w5,A2J6,Crescent Point Energy Corp.,"381",Drilling and Completing,,,,,,,Suspended,LSD Centre,./0.png
+ABBT0140201,Lts Deer 100/12-02-069-9w5 Wsb,A7G2,Ridgeback Resources Inc.,"902",Water Source Battery,,,,,,,Active,LSD Centre,./0.png
+ABBT8870003,Skywest Swan Hills 10-24-70-11,0EL6,Skywest Resources Corp.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870004,Ulster Swan Hills 4-4,A2PZ,KinMerc Oil & Gas Inc.,"321",Crude Oil Multiwell Group Battery,,,,,,,Active,LSD Centre,./0.png
+ABBT8870007,Colin Swan Hills 7-33,0LP5,International Colin Energy Corporation,"322",Crude Oil Multiwell Proration Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870008,Chauvco Swan Hills 4-9,"0339",Pnrc Oil & Gas Ltd.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870010,Shell Swan Hills 4-8-69-9,0T03,Shell Canada Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870028,Northstar Swanhills 6-19,A7N3,Acquisition Oil Corp.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870030,Tri Link Swan Hills 10-4,0RL9,Baytex Energy Ltd.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870032,Eag Et Al Swanh 10-15-69-11,0M55,American Eagle Petroleums Ltd,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870034,First Dev Et Al Swanh 10-29-68-9,0BL9,Cube Energy Corp.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870035,Home Unit Inverness Swanh 7-14-68-10,0HE9,Canadian Natural Resources Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870041,Dex Swan Hills 12-27,0GZ2,Dexx Energy Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870127,Enerplus Swanh (hse Mtn) 10-34,0AW4,Paramount Resources Ltd.,"322",Crude Oil Multiwell Proration Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870144,Imperial Swan Hills 12-16,"0007",Imperial Oil Resources Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870155,Shell Swan Hills 12-6-69-9,0AW4,Paramount Resources Ltd.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870159,Tri Link Swan Hills 2-17,0AJ1,Penn West Canadian Fuel Ltd.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870183,Chauvco Swan Hills 7-10,A2TG,TAQA North Ltd.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870188,Shell Swan Hills 6-13,0T03,Shell Canada Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870196,Chauvco Swan Hills 13-36,A2TG,TAQA North Ltd.,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870204,Saskoil Swan Hills 10-26,A6LC,CNOOC Petroleum North America ULC,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870208,Home Scurry Swan Hills 4-2,0LX9,Place Resources Corporation,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT8870218,Shell House Mountain 2-33,0T03,Shell Canada Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT9982023,Cnw Swanh 16-32,0L99,Canada Northwest Energy Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABBT9982035,Cnw Swan Hills 1-5,0L99,Canada Northwest Energy Limited,"311",Crude Oil Single-Well Battery,,,,,,,Suspended,LSD Centre,./0.png
+ABGS0002549,Shell House Mountain,A6A7,Cardinal Energy Ltd.,"621",Gas Gathering System,,,,,,,Active,LSD Centre,./0.png
+ABGS0003455,* Home Swan Hills,0HE9,Canadian Natural Resources Limited,"621",Gas Gathering System,,,,,,,Suspended,LSD Centre,./0.png
+ABGS0003523,Star Swan Hills,A7N3,Acquisition Oil Corp.,"621",Gas Gathering System,,,,,,,Active,LSD Centre,./0.png
+ABGS0003964,* Home Swan Hills,0HE9,Canadian Natural Resources Limited,"621",Gas Gathering System,,,,,,,Suspended,LSD Centre,./0.png
+ABIF0007430,Shell House Mountain Unit #1,A6A7,Cardinal Energy Ltd.,"501",Enhanced Recovery Scheme,,,,,,,Active,LSD Centre,./0.png
+ABIF0007444,International Corp. Deer Mtn.,A7ND,ACCEL Canada Holdings Limited,"501",Enhanced Recovery Scheme,,,,,,,Active,LSD Centre,./0.png
+ABIF0007446,Home Inverness Unit #1,A7N3,Acquisition Oil Corp.,"501",Enhanced Recovery Scheme,,,,,,,Suspended,LSD Centre,./0.png
+ABIF0007602,Esso Deer Mtn 10-27,A62D,BP Canada Energy Group ULC,"501",Enhanced Recovery Scheme,,,,,,,Suspended,LSD Centre,./0.png
+ABIF0007726,Chauvco Swan Hills,A7N3,Acquisition Oil Corp.,"501",Enhanced Recovery Scheme,,,,,,,Suspended,LSD Centre,./0.png
+ABIF0008223,Chem-Security Ethel,0A1G,Alberta Infrastructure,"503",Disposal,,,,,,,Active,LSD Centre,./0.png
+ABMS0003092,Moosehorn River Sales,0TB3,NOVA Gas Transmission Ltd.,"632",Interconnect Receipt,,,,,,,Active,LSD Centre,./0.png
+ABMS0122175,Swan Hills Miscible Injection (4918),0Z6J,ATCO Pipelines (North TN8263923),"632",Interconnect Receipt,,,,,,,Suspended,LSD Centre,./0.png
+ABPL0134958,Wolverine Swan Hill Pipeline,A80M,Wolverine Energy And Infrastructure Inc.,"207",Oil Pipeline,,,,,,,Active,LSD Centre,./0.png
+ABTM0000821,Swan Hills Terminal,"0205",Pembina Pipeline Corporation,"671",Tank Farm/Oil Loading and Unloading Terminal,,,,,,,Active,LSD Centre,./0.png
+ABTM0000955,Ccs Swan Hills Terminal,0NZ1,Tervita Corporation,"671",Tank Farm/Oil Loading and Unloading Terminal,,,,,,,Suspended,LSD Centre,./0.png
+ABTM0135966,Wolverine Swan Hills Terminal,A80M,Wolverine Energy And Infrastructure Inc.,"671",Tank Farm/Oil Loading and Unloading Terminal,,,,,,,Active,LSD Centre,./0.png
+ABWP0000662,Tervita Swan Hills Waste Facility,0NZ1,Tervita Corporation,"701",Surface Waste Facility,,,,,,,Active,LSD Centre,./0.png
+ABWS0000479,Csl Ethel Slough 13-6-67-8,,,"901",Water Source (Alberta Environment Licensed),,,,,,,,LSD Centre,./0.png
+ABWS0000480,Atlantic Richfield Swan Hills,A7L1,Razor Energy Corp.,"901",Water Source (Alberta Environment Licensed),,,,,,,Active,LSD Centre,./0.png
+ABWS0000483,Swan River 9-21-69-9,A5D4,Cenovus Energy Inc.,"901",Water Source (Alberta Environment Licensed),,,,,,,Active,LSD Centre,./0.png
+ABWS0000503,Home Swan River,0HE9,Canadian Natural Resources Limited,"901",Water Source (Alberta Environment Licensed),,,,,,,Active,LSD Centre,./0.png
+ABWS0000504,Dekalb Swan H Ww 16-25-67-10,,,"901",Water Source (Alberta Environment Licensed),,,,,,,,LSD Centre,./0.png
+ABWS0000505,Tenn Swan H Moose Horn 4-8-68-10,,,"901",Water Source (Alberta Environment Licensed),,,,,,,,LSD Centre,./0.png
+ABWS0000506,Inverness River Ww,A7N3,Acquisition Oil Corp.,"901",Water Source (Alberta Environment Licensed),,,,,,,Suspended,LSD Centre,./0.png
+ABWS0000562,Sinclair Et Al Swanh In 4-9-70-10,,,"901",Water Source (Alberta Environment Licensed),,,,,,,,LSD Centre,./0.png
+ABWS0096032,Arcan Swanh 2-28-68-8 Ws,A74X,Aspenleaf Energy Limited,"901",Water Source (Alberta Environment Licensed),,,,,,,Active,LSD Centre,./0.png
+ABMS0079135,Swan Hills Waste Treatment (1930),0Z6J,ATCO Pipelines (North TN8263923),"634",Interconnect Non-Reconciled,,,,,,,Nonreporting,Section Centre,./0.png
+ABMS0500543,Inverness River,0Z6J,ATCO Pipelines (North TN8263923),"631",Field Meter Station,,,,,,,Suspended,Section Centre,./0.png
+ABMS0501721,House Mtn Net,0Z6J,ATCO Pipelines (North TN8263923),"631",Field Meter Station,,,,,,,Suspended,Section Centre,./0.png
